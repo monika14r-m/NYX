@@ -1,6 +1,6 @@
 # Nyx 📸
 
-> **Capture together. Share instantly.**
+Capture together. Share instantly
 
 Nyx is a real-time collaborative photo-sharing platform that lets groups instantly share memories as they happen.
 
